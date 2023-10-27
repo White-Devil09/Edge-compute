@@ -1,0 +1,257 @@
+Connected to Cache Server
+Round Trip time (Drone-Server-Drone): 0.11006927490234375
+Network Delay (rtt-processing): 0.05715012550354004
+Round Trip time (Drone-Server-Drone): 0.08782148361206055
+Network Delay (rtt-processing): 0.0435941219329834
+Round Trip time (Drone-Server-Drone): 0.09304046630859375
+Network Delay (rtt-processing): 0.05054759979248047
+Round Trip time (Drone-Server-Drone): 0.09401154518127441
+Network Delay (rtt-processing): 0.0461573600769043
+Round Trip time (Drone-Server-Drone): 0.1016530990600586
+Network Delay (rtt-processing): 0.050740957260131836
+Round Trip time (Drone-Server-Drone): 0.0946044921875
+Network Delay (rtt-processing): 0.04395318031311035
+Round Trip time (Drone-Server-Drone): 0.09509444236755371
+Network Delay (rtt-processing): 0.04756951332092285
+Round Trip time (Drone-Server-Drone): 0.09477496147155762
+Network Delay (rtt-processing): 0.04961657524108887
+Round Trip time (Drone-Server-Drone): 0.09031414985656738
+Network Delay (rtt-processing): 0.0458226203918457
+Round Trip time (Drone-Server-Drone): 0.08949923515319824
+Network Delay (rtt-processing): 0.04535198211669922
+Round Trip time (Drone-Server-Drone): 0.09419012069702148
+Network Delay (rtt-processing): 0.0469207763671875
+Round Trip time (Drone-Server-Drone): 0.09327149391174316
+Network Delay (rtt-processing): 0.048487186431884766
+Round Trip time (Drone-Server-Drone): 0.09201836585998535
+Network Delay (rtt-processing): 0.04763007164001465
+Round Trip time (Drone-Server-Drone): 0.08826899528503418
+Network Delay (rtt-processing): 0.045454978942871094
+Round Trip time (Drone-Server-Drone): 0.10422444343566895
+Network Delay (rtt-processing): 0.05532407760620117
+Round Trip time (Drone-Server-Drone): 0.08356356620788574
+Network Delay (rtt-processing): 0.040807485580444336
+Round Trip time (Drone-Server-Drone): 0.09320187568664551
+Network Delay (rtt-processing): 0.05010843276977539
+Round Trip time (Drone-Server-Drone): 0.08742165565490723
+Network Delay (rtt-processing): 0.04458427429199219
+Round Trip time (Drone-Server-Drone): 0.08900737762451172
+Network Delay (rtt-processing): 0.044508934020996094
+Round Trip time (Drone-Server-Drone): 0.08420085906982422
+Network Delay (rtt-processing): 0.04289412498474121
+Round Trip time (Drone-Server-Drone): 0.10269641876220703
+Network Delay (rtt-processing): 0.05013775825500488
+Round Trip time (Drone-Server-Drone): 0.0924067497253418
+Network Delay (rtt-processing): 0.04556131362915039
+Round Trip time (Drone-Server-Drone): 0.09378910064697266
+Network Delay (rtt-processing): 0.04825258255004883
+Round Trip time (Drone-Server-Drone): 0.09446477890014648
+Network Delay (rtt-processing): 0.04713010787963867
+Round Trip time (Drone-Server-Drone): 0.09073495864868164
+Network Delay (rtt-processing): 0.04508543014526367
+Round Trip time (Drone-Server-Drone): 0.0940406322479248
+Network Delay (rtt-processing): 0.050280094146728516
+Round Trip time (Drone-Server-Drone): 0.09138035774230957
+Network Delay (rtt-processing): 0.04797530174255371
+Round Trip time (Drone-Server-Drone): 0.09434294700622559
+Network Delay (rtt-processing): 0.0496673583984375
+Round Trip time (Drone-Server-Drone): 0.09037280082702637
+Network Delay (rtt-processing): 0.04605436325073242
+Round Trip time (Drone-Server-Drone): 0.08916234970092773
+Network Delay (rtt-processing): 0.045876502990722656
+Round Trip time (Drone-Server-Drone): 0.08888006210327148
+Network Delay (rtt-processing): 0.04573845863342285
+Round Trip time (Drone-Server-Drone): 0.0986788272857666
+Network Delay (rtt-processing): 0.05286097526550293
+Round Trip time (Drone-Server-Drone): 0.0980522632598877
+Network Delay (rtt-processing): 0.0501096248626709
+Round Trip time (Drone-Server-Drone): 0.09642696380615234
+Network Delay (rtt-processing): 0.04761195182800293
+Round Trip time (Drone-Server-Drone): 0.0954732894897461
+Network Delay (rtt-processing): 0.049751996994018555
+Round Trip time (Drone-Server-Drone): 0.09241080284118652
+Network Delay (rtt-processing): 0.047609806060791016
+Round Trip time (Drone-Server-Drone): 0.09481430053710938
+Network Delay (rtt-processing): 0.04898715019226074
+Round Trip time (Drone-Server-Drone): 0.10108613967895508
+Network Delay (rtt-processing): 0.0558779239654541
+Round Trip time (Drone-Server-Drone): 0.09797859191894531
+Network Delay (rtt-processing): 0.05171775817871094
+Round Trip time (Drone-Server-Drone): 0.10869312286376953
+Network Delay (rtt-processing): 0.06289434432983398
+Round Trip time (Drone-Server-Drone): 0.1107485294342041
+Network Delay (rtt-processing): 0.0648794174194336
+Round Trip time (Drone-Server-Drone): 0.10132455825805664
+Network Delay (rtt-processing): 0.05167889595031738
+Round Trip time (Drone-Server-Drone): 0.10898351669311523
+Network Delay (rtt-processing): 0.060201168060302734
+Round Trip time (Drone-Server-Drone): 0.11544084548950195
+Network Delay (rtt-processing): 0.06152057647705078
+Round Trip time (Drone-Server-Drone): 0.09887433052062988
+Network Delay (rtt-processing): 0.05124020576477051
+Round Trip time (Drone-Server-Drone): 0.1066138744354248
+Network Delay (rtt-processing): 0.05800032615661621
+Round Trip time (Drone-Server-Drone): 0.11063218116760254
+Network Delay (rtt-processing): 0.06400918960571289
+Round Trip time (Drone-Server-Drone): 0.11655497550964355
+Network Delay (rtt-processing): 0.06261372566223145
+Round Trip time (Drone-Server-Drone): 0.10074400901794434
+Network Delay (rtt-processing): 0.05561566352844238
+Round Trip time (Drone-Server-Drone): 0.1046915054321289
+Network Delay (rtt-processing): 0.059298038482666016
+Round Trip time (Drone-Server-Drone): 0.10465860366821289
+Network Delay (rtt-processing): 0.05808091163635254
+Round Trip time (Drone-Server-Drone): 0.11799740791320801
+Network Delay (rtt-processing): 0.0679779052734375
+Round Trip time (Drone-Server-Drone): 0.10507392883300781
+Network Delay (rtt-processing): 0.05876946449279785
+Round Trip time (Drone-Server-Drone): 0.10825777053833008
+Network Delay (rtt-processing): 0.060449838638305664
+Round Trip time (Drone-Server-Drone): 0.09930300712585449
+Network Delay (rtt-processing): 0.055567026138305664
+Round Trip time (Drone-Server-Drone): 0.10358834266662598
+Network Delay (rtt-processing): 0.05623340606689453
+Round Trip time (Drone-Server-Drone): 0.10969185829162598
+Network Delay (rtt-processing): 0.06208205223083496
+Round Trip time (Drone-Server-Drone): 0.10986757278442383
+Network Delay (rtt-processing): 0.061952829360961914
+Round Trip time (Drone-Server-Drone): 0.1058189868927002
+Network Delay (rtt-processing): 0.059644460678100586
+Round Trip time (Drone-Server-Drone): 0.11069655418395996
+Network Delay (rtt-processing): 0.06183218955993652
+Round Trip time (Drone-Server-Drone): 0.10956597328186035
+Network Delay (rtt-processing): 0.059726715087890625
+Round Trip time (Drone-Server-Drone): 0.09639930725097656
+Network Delay (rtt-processing): 0.05077934265136719
+Round Trip time (Drone-Server-Drone): 0.10076498985290527
+Network Delay (rtt-processing): 0.0536191463470459
+Round Trip time (Drone-Server-Drone): 0.10484194755554199
+Network Delay (rtt-processing): 0.05865955352783203
+Round Trip time (Drone-Server-Drone): 0.1068263053894043
+Network Delay (rtt-processing): 0.056192636489868164
+Round Trip time (Drone-Server-Drone): 0.0961611270904541
+Network Delay (rtt-processing): 0.050064802169799805
+Round Trip time (Drone-Server-Drone): 0.09831953048706055
+Network Delay (rtt-processing): 0.050557851791381836
+Round Trip time (Drone-Server-Drone): 0.10169291496276855
+Network Delay (rtt-processing): 0.052463531494140625
+Round Trip time (Drone-Server-Drone): 0.09709358215332031
+Network Delay (rtt-processing): 0.0516355037689209
+Round Trip time (Drone-Server-Drone): 0.09781694412231445
+Network Delay (rtt-processing): 0.05097198486328125
+Round Trip time (Drone-Server-Drone): 0.09907913208007812
+Network Delay (rtt-processing): 0.05455470085144043
+Round Trip time (Drone-Server-Drone): 0.10433650016784668
+Network Delay (rtt-processing): 0.059850454330444336
+Round Trip time (Drone-Server-Drone): 0.09978175163269043
+Network Delay (rtt-processing): 0.05362415313720703
+Round Trip time (Drone-Server-Drone): 0.10016560554504395
+Network Delay (rtt-processing): 0.05329418182373047
+Round Trip time (Drone-Server-Drone): 0.11001873016357422
+Network Delay (rtt-processing): 0.058309078216552734
+Round Trip time (Drone-Server-Drone): 0.10898780822753906
+Network Delay (rtt-processing): 0.06254291534423828
+Round Trip time (Drone-Server-Drone): 0.10926008224487305
+Network Delay (rtt-processing): 0.0634009838104248
+Round Trip time (Drone-Server-Drone): 0.10973787307739258
+Network Delay (rtt-processing): 0.06122756004333496
+Round Trip time (Drone-Server-Drone): 0.12717056274414062
+Network Delay (rtt-processing): 0.08146381378173828
+Round Trip time (Drone-Server-Drone): 0.10825204849243164
+Network Delay (rtt-processing): 0.057924509048461914
+Round Trip time (Drone-Server-Drone): 0.1085355281829834
+Network Delay (rtt-processing): 0.05928611755371094
+Round Trip time (Drone-Server-Drone): 0.10243630409240723
+Network Delay (rtt-processing): 0.0568389892578125
+Round Trip time (Drone-Server-Drone): 0.21964693069458008
+Network Delay (rtt-processing): 0.17186689376831055
+Round Trip time (Drone-Server-Drone): 0.2361757755279541
+Network Delay (rtt-processing): 0.1800553798675537
+Round Trip time (Drone-Server-Drone): 0.24030852317810059
+Network Delay (rtt-processing): 0.18115711212158203
+Round Trip time (Drone-Server-Drone): 0.2417621612548828
+Network Delay (rtt-processing): 0.18217229843139648
+Round Trip time (Drone-Server-Drone): 0.20142388343811035
+Network Delay (rtt-processing): 0.14333033561706543
+Round Trip time (Drone-Server-Drone): 0.3044869899749756
+Network Delay (rtt-processing): 0.24800324440002441
+Round Trip time (Drone-Server-Drone): 0.311398983001709
+Network Delay (rtt-processing): 0.24485039710998535
+Round Trip time (Drone-Server-Drone): 0.16101694107055664
+Network Delay (rtt-processing): 0.10370326042175293
+Round Trip time (Drone-Server-Drone): 0.3180277347564697
+Network Delay (rtt-processing): 0.26294779777526855
+Round Trip time (Drone-Server-Drone): 0.30786728858947754
+Network Delay (rtt-processing): 0.24476051330566406
+Round Trip time (Drone-Server-Drone): 0.3088805675506592
+Network Delay (rtt-processing): 0.25913500785827637
+Round Trip time (Drone-Server-Drone): 0.10520100593566895
+Network Delay (rtt-processing): 0.054160356521606445
+Round Trip time (Drone-Server-Drone): 0.10766434669494629
+Network Delay (rtt-processing): 0.060224056243896484
+Round Trip time (Drone-Server-Drone): 0.10291600227355957
+Network Delay (rtt-processing): 0.05468344688415527
+Round Trip time (Drone-Server-Drone): 0.10658717155456543
+Network Delay (rtt-processing): 0.05949878692626953
+Round Trip time (Drone-Server-Drone): 0.10301446914672852
+Network Delay (rtt-processing): 0.05648469924926758
+Round Trip time (Drone-Server-Drone): 0.10492467880249023
+Network Delay (rtt-processing): 0.056301116943359375
+Round Trip time (Drone-Server-Drone): 0.10048770904541016
+Network Delay (rtt-processing): 0.05355405807495117
+Round Trip time (Drone-Server-Drone): 0.1163787841796875
+Network Delay (rtt-processing): 0.06829714775085449
+Round Trip time (Drone-Server-Drone): 0.10470986366271973
+Network Delay (rtt-processing): 0.058812856674194336
+Round Trip time (Drone-Server-Drone): 0.1000356674194336
+Network Delay (rtt-processing): 0.054535627365112305
+Round Trip time (Drone-Server-Drone): 0.10504603385925293
+Network Delay (rtt-processing): 0.053611040115356445
+Round Trip time (Drone-Server-Drone): 0.10340023040771484
+Network Delay (rtt-processing): 0.05701923370361328
+Round Trip time (Drone-Server-Drone): 0.10394644737243652
+Network Delay (rtt-processing): 0.056800127029418945
+Round Trip time (Drone-Server-Drone): 0.10359978675842285
+Network Delay (rtt-processing): 0.056548357009887695
+Round Trip time (Drone-Server-Drone): 0.10278177261352539
+Network Delay (rtt-processing): 0.05621814727783203
+Round Trip time (Drone-Server-Drone): 0.1004798412322998
+Network Delay (rtt-processing): 0.05388975143432617
+Round Trip time (Drone-Server-Drone): 0.10221052169799805
+Network Delay (rtt-processing): 0.054847002029418945
+Round Trip time (Drone-Server-Drone): 0.10113859176635742
+Network Delay (rtt-processing): 0.05441546440124512
+Round Trip time (Drone-Server-Drone): 0.10995817184448242
+Network Delay (rtt-processing): 0.05526256561279297
+Round Trip time (Drone-Server-Drone): 0.09853196144104004
+Network Delay (rtt-processing): 0.053307294845581055
+Round Trip time (Drone-Server-Drone): 0.09794950485229492
+Network Delay (rtt-processing): 0.049591779708862305
+Round Trip time (Drone-Server-Drone): 0.10658931732177734
+Network Delay (rtt-processing): 0.06070995330810547
+Round Trip time (Drone-Server-Drone): 0.11075496673583984
+Network Delay (rtt-processing): 0.06299233436584473
+Round Trip time (Drone-Server-Drone): 0.10782194137573242
+Network Delay (rtt-processing): 0.058283329010009766
+Round Trip time (Drone-Server-Drone): 0.10070133209228516
+Network Delay (rtt-processing): 0.05144023895263672
+Round Trip time (Drone-Server-Drone): 0.10114860534667969
+Network Delay (rtt-processing): 0.05375242233276367
+Round Trip time (Drone-Server-Drone): 0.10555744171142578
+Network Delay (rtt-processing): 0.05749225616455078
+Round Trip time (Drone-Server-Drone): 0.10249638557434082
+Network Delay (rtt-processing): 0.05372285842895508
+Round Trip time (Drone-Server-Drone): 0.1064462661743164
+Network Delay (rtt-processing): 0.05689215660095215
+Round Trip time (Drone-Server-Drone): 0.11309814453125
+Network Delay (rtt-processing): 0.0627586841583252
+Round Trip time (Drone-Server-Drone): 0.102508544921875
+Network Delay (rtt-processing): 0.045084476470947266
+Round Trip time (Drone-Server-Drone): 0.09885430335998535
+Network Delay (rtt-processing): 0.04336833953857422
+Round Trip time (Drone-Server-Drone): 0.10296964645385742
+Network Delay (rtt-processing): 0.046334266662597656
+Round Trip time (Drone-Server-Drone): 0.10804319381713867
+Network Delay (rtt-processing): 0.051458120346069336
+Round Trip time (Drone-Server-Drone): 0.10285401344299316
+Network Delay (rtt-processing): 0.04924416542053223
